@@ -115,13 +115,13 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: kimchunchu0921/blog
+    repo: kimchunchu0921/kimchunchu0921.github.io
     theme: github-light
     crossorigin: anonymous
     issue_term: pathname # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: kimchunchu0921/blog # <gh-username>/<repo>
+    repo: kimchunchu0921/kimchunchu0921.github.io # <gh-username>/<repo>
     repo_id: R_kgDOP0gOzQ
     category: BlogComments
     category_id: DIC_kwDOP0gOzc4CvyCA
